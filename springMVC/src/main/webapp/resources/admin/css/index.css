@@ -1,0 +1,44 @@
+body {
+	font: 12px/1.5 Microsoft YaHei, Helvitica, Verdana, Arial, san-serif;
+	background-color: rgb(250, 250, 250);
+	margin: 0px;
+}
+
+.main {
+	position: relative;
+}
+
+.navigation {
+	height: 50px;
+	background-color: rgb(243, 241, 223);
+	position: relative;
+}
+
+.content {
+	height: 650px;
+	position: relative;
+}
+
+.left {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 100%;
+	width: 150px;
+	background-color: rgb(226, 241, 237);
+}
+
+.right {
+	position: absolute;
+	left: 150px;
+	right: 0;
+	top: 0px;
+	bottom: 0px;
+	height: 100%;
+}
+
+.right>.mainFrame {
+	width: 100%;
+	height: 100%;
+	border: 0px;
+}
