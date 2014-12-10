@@ -1,9 +1,9 @@
-package com.sgnbs.system.basic.bo.intf;
+package com.leying.system.basic.bo.intf;
 
 import java.util.List;
 
-import com.sgnbs.system.basic.model.pagebean.AdminBean;
-import com.sgnbs.system.basic.model.po.MAdmin;
+import com.leying.system.basic.model.pagebean.AdminBean;
+import com.leying.system.basic.model.po.MAdmin;
 
 public interface AdminBO {
 

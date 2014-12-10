@@ -33,7 +33,7 @@
 	</bean>
 	<bean class="org.springframework.jdbc.core.JdbcTemplate">
 		<property name="dataSource">
-			<ref local="dataSource"/>
+			<ref bean="dataSource"/>
 		</property>
 	</bean>
 </beans>  

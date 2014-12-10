@@ -1,13 +1,13 @@
-package com.sgnbs.system.basic.bo.impl;
+package com.leying.system.basic.bo.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.sgnbs.system.basic.bo.intf.AdminBO;
-import com.sgnbs.system.basic.dao.intf.AdminDAO;
-import com.sgnbs.system.basic.model.pagebean.AdminBean;
-import com.sgnbs.system.basic.model.po.MAdmin;
+import com.leying.system.basic.bo.intf.AdminBO;
+import com.leying.system.basic.dao.intf.AdminDAO;
+import com.leying.system.basic.model.pagebean.AdminBean;
+import com.leying.system.basic.model.po.MAdmin;
 
 @Service
 @Transactional

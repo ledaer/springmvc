@@ -1,4 +1,4 @@
-package com.sgnbs.system.basic.model.pagebean;
+package com.leying.system.basic.model.pagebean;
 
 import java.util.List;
 

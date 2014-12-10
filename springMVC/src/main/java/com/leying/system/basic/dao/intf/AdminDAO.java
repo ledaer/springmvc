@@ -1,6 +1,6 @@
-package com.sgnbs.system.basic.dao.intf;
+package com.leying.system.basic.dao.intf;
 
-import com.sgnbs.system.basic.model.po.MAdmin;
+import com.leying.system.basic.model.po.MAdmin;
 
 public interface AdminDAO {
 

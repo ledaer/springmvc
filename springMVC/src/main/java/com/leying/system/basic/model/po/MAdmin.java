@@ -1,4 +1,4 @@
-package com.sgnbs.system.basic.model.po;
+package com.leying.system.basic.model.po;
 
 import java.io.Serializable;
 import java.util.Date;

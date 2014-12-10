@@ -1,4 +1,4 @@
-package com.sgnbs.system.basic.controller;
+package com.leying.system.basic.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -8,7 +8,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.sgnbs.system.basic.bo.intf.AdminBO;
+import com.leying.system.basic.bo.intf.AdminBO;
 
 @Controller
 public class MainLogin {

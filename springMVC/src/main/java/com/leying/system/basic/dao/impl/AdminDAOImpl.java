@@ -1,13 +1,13 @@
-package com.sgnbs.system.basic.dao.impl;
+package com.leying.system.basic.dao.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import com.sgnbs.system.basic.dao.intf.AdminDAO;
-import com.sgnbs.system.basic.dao.rowMap.AdminRowMap;
-import com.sgnbs.system.basic.model.po.MAdmin;
+import com.leying.system.basic.dao.intf.AdminDAO;
+import com.leying.system.basic.dao.rowMap.AdminRowMap;
+import com.leying.system.basic.model.po.MAdmin;
 
 @Repository
 public class AdminDAOImpl implements AdminDAO {

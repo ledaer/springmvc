@@ -1,11 +1,11 @@
-package com.sgnbs.system.basic.dao.rowMap;
+package com.leying.system.basic.dao.rowMap;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import org.springframework.jdbc.core.RowMapper;
 
-import com.sgnbs.system.basic.model.po.MAdmin;
+import com.leying.system.basic.model.po.MAdmin;
 
 public class AdminRowMap implements RowMapper {
 
