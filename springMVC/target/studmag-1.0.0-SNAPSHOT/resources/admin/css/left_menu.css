@@ -1,0 +1,29 @@
+.menu_top_ul {
+	padding-left: 0px;
+	background-color: rgb(228, 231, 231);
+}
+.menu_li {
+	list-style-type: none;
+	overflow: hidden;
+}
+.menu_li > a {
+	color: #555;
+	display: block;
+	padding: 5px 0 5px 27px;
+	text-decoration: none;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.top > a {
+	color: #000;
+	font-size: 14px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-weight: bold;
+	background-color: rgb(226, 241, 237);
+}
+.menu_ul {
+	padding-left: 0px;
+	overflow: hidden;
+}
