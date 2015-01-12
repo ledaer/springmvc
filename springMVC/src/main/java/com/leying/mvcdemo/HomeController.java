@@ -44,7 +44,7 @@ public class HomeController {
 		MAdmin admin=new MAdmin();
 		AdminBean adminBean=new AdminBean();
 		
-		admin.setId(11);
+		admin.setId(0);
 		admin.setUsername("xxxx");
 		admin.setPassword("xxxx");
 		
